@@ -1,0 +1,12 @@
+/Users/blakebruseloff/Projects/Deliverable-2/Deliverable-2/bin/Debug/netcoreapp3.1/Deliverable-2.deps.json
+/Users/blakebruseloff/Projects/Deliverable-2/Deliverable-2/bin/Debug/netcoreapp3.1/Deliverable-2.runtimeconfig.json
+/Users/blakebruseloff/Projects/Deliverable-2/Deliverable-2/bin/Debug/netcoreapp3.1/Deliverable-2.runtimeconfig.dev.json
+/Users/blakebruseloff/Projects/Deliverable-2/Deliverable-2/bin/Debug/netcoreapp3.1/Deliverable-2.dll
+/Users/blakebruseloff/Projects/Deliverable-2/Deliverable-2/bin/Debug/netcoreapp3.1/Deliverable-2.pdb
+/Users/blakebruseloff/Projects/Deliverable-2/Deliverable-2/obj/Debug/netcoreapp3.1/Deliverable-2.csprojAssemblyReference.cache
+/Users/blakebruseloff/Projects/Deliverable-2/Deliverable-2/obj/Debug/netcoreapp3.1/Deliverable-2.AssemblyInfoInputs.cache
+/Users/blakebruseloff/Projects/Deliverable-2/Deliverable-2/obj/Debug/netcoreapp3.1/Deliverable-2.AssemblyInfo.cs
+/Users/blakebruseloff/Projects/Deliverable-2/Deliverable-2/obj/Debug/netcoreapp3.1/Deliverable-2.csproj.CoreCompileInputs.cache
+/Users/blakebruseloff/Projects/Deliverable-2/Deliverable-2/obj/Debug/netcoreapp3.1/Deliverable-2.dll
+/Users/blakebruseloff/Projects/Deliverable-2/Deliverable-2/obj/Debug/netcoreapp3.1/Deliverable-2.pdb
+/Users/blakebruseloff/Projects/Deliverable-2/Deliverable-2/obj/Debug/netcoreapp3.1/Deliverable-2.genruntimeconfig.cache
